@@ -1,17 +1,18 @@
 ## Hola 👋
-Mi nombre es Micaela y soy analista de datos con experiencia en proyectos prácticos y una gran pasión por transformar datos en información accionable.
+Mi nombre es Micaela y soy Data Specialist enfocada en la limpieza, consistencia y estructuración técnica de datos.
+Manejo consultas SQL para la extracción en bases de datos y desarrollo scripts en Python (Pandas/NumPy) para automatizar la transformación de archivos (tratamiento de nulos, duplicados y normalización de formatos).
 
-Impulsada por la toma de decisiones basadas en datos, desarrollé un proyecto de segmentación de clientes de un centro comercial, lo que permitió diseñar estrategias de marketing más efectivas y mejorar la fidelización. Para ello utilicé Python en Jupyter Notebooks.
+Proyecto Destacado: Diseñé un pipeline técnico de procesamiento y segmentación de datos de clientes en Python. Me encargué por completo de la depuración, validación y normalización del dataset para garantizar un producto de datos con altos estándares de calidad.
 
-Actualmente busco unirme a un equipo de datos donde pueda seguir aprendiendo, aportar mis habilidades analíticas y contribuir a impulsar decisiones de negocio más inteligentes.
+🛠️ Herramientas: SQL, Python (Pandas, NumPy), Git, GitHub, Excel Avanzado.
 
-En lo personal disfruto viajar, la naturaleza, los animales y crear manualidades, actividades que me inspiran creatividad y curiosidad.
+Busco mi primera experiencia en el sector para aportar lógica, rigurosidad en el backend de datos y mi alta capacidad de aprendizaje rápido.
 
-📫 Conectá conmigo:
+🌱 En lo personal, disfruto de las manualidades y la naturaleza; actividades que reflejan mi paciencia, detallismo y enfoque estructurado.
+
+📩 ¡Te invito a conectar y a ver mis proyectos!
 
   [alarcondata@gmail.com](https://mail.google.com/mail/u/1/#inbox)
   
-  [LinkedIn](https://www.linkedin.com/in/micaela-elizabeth-alarcon/)
-
-  [Portafolio](https://sites.google.com/view/portafoliodemicaelaalarcon/portafolio-de-micaela-alarc%C3%B3n)
+  [LinkedIn](https://www.linkedin.com/in/micaela-elizabeth-alarcon/) 
   
