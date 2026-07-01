@@ -4,7 +4,10 @@ Manejo consultas SQL para la extracción en bases de datos y desarrollo scripts 
 
 Proyecto Destacado: Diseñé un pipeline técnico de procesamiento y segmentación de datos de clientes en Python. Me encargué por completo de la depuración, validación y normalización del dataset para garantizar un producto de datos con altos estándares de calidad.
 
-🛠️ Herramientas: SQL, Python (Pandas, NumPy), Git, GitHub, Excel Avanzado.
+🛠️ Stack Técnico & Herramientas
+- **Lenguajes & Librerías:** Python (Pandas, NumPy) | SQL (Consultas, Filtrados y Agrupaciones)
+- **Infraestructura & Control:** Git | GitHub | Jupyter Notebooks / VS Code
+- **Áreas de Foco:** Limpieza (Manejo de nulos/duplicados), Remediación de Outliers (IQR), Escalado e Integridad de Datos.
 
 Busco mi primera experiencia en el sector para aportar lógica, rigurosidad en el backend de datos y mi alta capacidad de aprendizaje rápido.
 
@@ -15,4 +18,6 @@ Busco mi primera experiencia en el sector para aportar lógica, rigurosidad en e
   [alarcondata@gmail.com](https://mail.google.com/mail/u/1/#inbox)
   
   [LinkedIn](https://www.linkedin.com/in/micaela-elizabeth-alarcon/) 
+
+  [Portafolio](https://sites.google.com/view/portafoliodemicaelaalarcon/portafolio-de-micaela-alarc%C3%B3n)
   
