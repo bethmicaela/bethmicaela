@@ -1,5 +1,5 @@
 ## Hola 👋
-Mi nombre es Micaela y soy Data Specialist enfocada en la limpieza, consistencia y estructuración técnica de datos.
+Mi nombre es Micaela y soy Analytics Engineer enfocada en la limpieza, consistencia y estructuración técnica de datos.
 Manejo consultas SQL para la extracción en bases de datos y desarrollo scripts en Python (Pandas/NumPy) para automatizar la transformación de archivos (tratamiento de nulos, duplicados y normalización de formatos).
 
 Proyecto Destacado: Diseñé un pipeline técnico de procesamiento y segmentación de datos de clientes en Python. Me encargué por completo de la depuración, validación y normalización del dataset para garantizar un producto de datos con altos estándares de calidad.
